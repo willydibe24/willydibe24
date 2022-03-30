@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @willydibe24
+- 👀 I’m interested in IT, coding and web developing
+- 🌱 I’m currently learning C#, HTML, CSS and JS at my 4°th year at school
+- 📫 How to reach me (email): willy.dibe24@gmail.com
